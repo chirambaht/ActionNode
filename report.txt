@@ -1,0 +1,323 @@
+Info: Processing symbol 'P2:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'P14:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P9:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P16:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'JP5:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'P7:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P8:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P3:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'JP2:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'JP1:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'P11:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P15:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'U1:Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm'.
+Info: Processing symbol 'JP6:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'JP4:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'P5:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'P13:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'D2:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'P4:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P1:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'P10:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'JP3:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Info: Processing symbol 'P12:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'P6:TestPoint:TestPoint_Pad_1.0x1.0mm'.
+Info: Processing symbol 'JP7:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm'.
+Changed P10 value from TestPoint_Pad_1.0x1.0mm to GND.
+Removed P9 'exclude from BOM' fabrication attribute.
+Changed REF** reference designator to P10.
+Added P10 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P9 pin 1 to VCC.
+Removed P8 'exclude from BOM' fabrication attribute.
+Updated P10 symbol association from  to /8c0ca554-55b4-4f06-9266-691d211ebcc7.
+Updated P10 properties.
+Removed P10 'exclude from BOM' fabrication attribute.
+Connected P10 pin 1 to GND.
+Added P11 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Changed REF** reference designator to P11.
+Changed P11 value from TestPoint_Pad_1.0x1.0mm to SCL.
+Updated P11 symbol association from  to /f855ec97-7e38-4e32-b15c-866d02396830.
+Updated P11 properties.
+Removed P11 'exclude from BOM' fabrication attribute.
+Connected P11 pin 1 to /SCL.
+Added P12 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Changed REF** reference designator to P12.
+Changed P12 value from TestPoint_Pad_1.0x1.0mm to SDA.
+Updated P12 symbol association from  to /f3f1e93f-ed59-4f37-a562-d0ed21b17f4c.
+Updated P12 properties.
+Connected P5 pin 1 to /CH1.
+Added P7 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P6 pin 1 to /CH2.
+Removed P6 'exclude from BOM' fabrication attribute.
+Updated P6 properties.
+Updated P6 symbol association from  to /4f1a4acb-c231-4068-b76f-07b48d2e3c43.
+Changed P6 value from TestPoint_Pad_1.0x1.0mm to CH2.
+Changed REF** reference designator to P6.
+Added P6 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Changed REF** reference designator to P7.
+Removed P5 'exclude from BOM' fabrication attribute.
+Updated P5 properties.
+Updated P5 symbol association from  to /e6d6bda6-1439-409c-b104-5888afa99b72.
+Changed P5 value from TestPoint_Pad_1.0x1.0mm to CH1.
+Changed REF** reference designator to P5.
+Added P5 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P4 pin 1 to /SDA.
+Add net /SDA.
+Changed P8 value from TestPoint_Pad_1.0x1.0mm to CH4.
+Updated P9 symbol association from  to /c82bf302-bfa5-4dc2-bf1a-366abe7a8489.
+Changed P9 value from TestPoint_Pad_1.0x1.0mm to VCC.
+Changed REF** reference designator to P9.
+Added P9 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P8 pin 1 to /CH4.
+Updated P13 properties.
+Updated P8 properties.
+Updated P8 symbol association from  to /2a092d53-91a8-45d4-8978-656a62b097f3.
+Updated P9 properties.
+Changed REF** reference designator to P8.
+Added P8 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P7 pin 1 to /CH3.
+Removed P7 'exclude from BOM' fabrication attribute.
+Updated P7 properties.
+Updated P7 symbol association from  to /6d298629-72f5-46c4-921a-07d739c0303d.
+Changed P7 value from TestPoint_Pad_1.0x1.0mm to CH3.
+Changed REF** reference designator to U1.
+Connected U1 pin 8 to Net-(C1-Pad1).
+Connected U1 pin 7 to unconnected-(U1-Pad7).
+Add net unconnected-(U1-Pad7).
+Connected U1 pin 6 to unconnected-(U1-Pad6).
+Add net unconnected-(U1-Pad6).
+Connected U1 pin 1 to GND.
+Updated U1 properties.
+Updated U1 symbol association from  to /cc393cdf-fc0d-4087-b971-2b2a0d1f24da.
+Changed U1 value from InvenSense_QFN-24_4x4mm_P0.5mm to MPU-6050.
+Connected U1 pin 9 to /AD0.
+Added U1 (footprint 'Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm').
+Connected R2 pin 2 to /SCL.
+Connected R2 pin 1 to +3V3.
+Updated R2 properties.
+Updated R2 symbol association from  to /075f636e-ce14-41f8-af02-2f25f55949c6.
+Changed R2 value from R_0603_1608Metric to 10k.
+Changed REF** reference designator to R2.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Connected U2 pin 3 to VCC.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 2 to +3V3.
+Connected U2 pin 1 to GND.
+Updated U2 properties.
+Updated U2 symbol association from  to /c4cd1486-e131-430d-a539-04f6830187a6.
+Changed U2 value from SOT-223-3_TabPin2 to AMS1117-3.3.
+Changed REF** reference designator to U2.
+Connected R1 pin 2 to /SDA.
+Connected U1 pin 24 to /SDA.
+Connected U1 pin 23 to /SCL.
+Connected U1 pin 20 to Net-(C3-Pad1).
+Connected U1 pin 18 to GND.
+Connected U1 pin 13 to +3V3.
+Connected U1 pin 12 to /INT.
+Connected U1 pin 11 to Net-(JP1-Pad2).
+Connected U1 pin 10 to Net-(C2-Pad1).
+Added P14 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Changed REF** reference designator to P15.
+Added P15 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P14 pin 1 to /CH2.
+Removed P14 'exclude from BOM' fabrication attribute.
+Updated P14 properties.
+Updated P14 symbol association from  to /046d913c-a03a-4eea-8561-3f104e7637ad.
+Changed P14 value from TestPoint_Pad_1.0x1.0mm to CH2.
+Changed REF** reference designator to P14.
+Changed P15 value from TestPoint_Pad_1.0x1.0mm to CH3.
+Connected P13 pin 1 to /CH1.
+Removed P13 'exclude from BOM' fabrication attribute.
+Changed P4 value from TestPoint_Pad_1.0x1.0mm to SDA.
+Updated P13 symbol association from  to /cc723b2c-0886-4299-b2e5-665602afaecd.
+Changed P13 value from TestPoint_Pad_1.0x1.0mm to CH1.
+Changed REF** reference designator to P13.
+Added P13 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P12 pin 1 to /SDA.
+Updated P16 properties.
+Connected R1 pin 1 to +3V3.
+Updated R1 properties.
+Updated R1 symbol association from  to /f147f317-d041-47f8-a275-537d35dc6abb.
+Changed R1 value from R_0603_1608Metric to 10k.
+Changed REF** reference designator to R1.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Connected P16 pin 1 to /CH4.
+Removed P16 'exclude from BOM' fabrication attribute.
+Removed P12 'exclude from BOM' fabrication attribute.
+Updated P16 symbol association from  to /1dde72f4-f9f2-4232-b8c9-b536746b0c41.
+Changed P16 value from TestPoint_Pad_1.0x1.0mm to CH4.
+Changed REF** reference designator to P16.
+Added P16 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P15 pin 1 to /CH3.
+Removed P15 'exclude from BOM' fabrication attribute.
+Updated P15 properties.
+Updated P15 symbol association from  to /e7a2ecbf-db6e-4649-a477-ccbdd6ff1e9e.
+Updated D1 symbol association from  to /5fdc6ec2-2dac-4007-a4a8-815c05f20e52.
+Connected D2 pin 1 to GND.
+Updated D2 properties.
+Updated D2 symbol association from  to /9d02a79c-530d-4134-82ac-868bf6be58fc.
+Changed D2 value from LED_0603_1608Metric to Selector.
+Changed REF** reference designator to D2.
+Added D2 (footprint 'LED_SMD:LED_0603_1608Metric').
+Connected D1 pin 2 to +3V3.
+Connected D1 pin 1 to GND.
+Updated D1 properties.
+Add net /AD0.
+Changed D1 value from LED_0603_1608Metric to Power.
+Changed REF** reference designator to D1.
+Added D1 (footprint 'LED_SMD:LED_0603_1608Metric').
+Connected C5 pin 2 to GND.
+Connected C5 pin 1 to +3V3.
+Add net +3V3.
+Updated C5 properties.
+Updated C5 symbol association from  to /06d6f725-1bfa-42b0-85d1-f1dd81e85a18.
+Add net Net-(JP1-Pad2).
+Add net /INT.
+Removed JP2 'exclude from BOM' fabrication attribute.
+Updated JP2 properties.
+Updated JP2 symbol association from  to /dbd467d9-b466-44a3-bfd8-d1e14d6c9d43.
+Changed JP2 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Removed P4 'exclude from BOM' fabrication attribute.
+Added JP2 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Connected JP1 pin 2 to Net-(JP1-Pad2).
+Changed C5 value from C_0603_1608Metric to 0.1u.
+Connected JP1 pin 1 to GND.
+Removed JP1 'exclude from BOM' fabrication attribute.
+Updated JP1 properties.
+Updated JP1 symbol association from  to /e12d83e3-ad6a-4c17-86fe-5a38fc10eb0b.
+Changed JP1 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Changed REF** reference designator to JP1.
+Added JP1 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Connected D2 pin 2 to /AD0.
+Connected C1 pin 2 to GND.
+Connected C2 pin 2 to GND.
+Connected C2 pin 1 to Net-(C2-Pad1).
+Add net Net-(C2-Pad1).
+Updated C2 properties.
+Updated C2 symbol association from  to /cd068f1e-a9ed-4e98-9110-b1be06fcfd59.
+Changed C2 value from C_0603_1608Metric to 0.1u.
+Changed REF** reference designator to C2.
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Add net GND.
+Connected C1 pin 1 to Net-(C1-Pad1).
+Add net Net-(C1-Pad1).
+Updated C1 properties.
+Updated C1 symbol association from  to /38952bb7-d8bf-4f3a-8f5d-4b4b0df879e3.
+Changed C1 value from C_0603_1608Metric to 10n.
+Changed REF** reference designator to C1.
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C4.
+Changed REF** reference designator to C5.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected C4 pin 2 to GND.
+Connected C4 pin 1 to VCC.
+Add net VCC.
+Updated C4 properties.
+Updated C4 symbol association from  to /072a6271-f223-4e67-9476-4bf4dc776924.
+Changed C4 value from C_0603_1608Metric to 0.1u.
+Changed REF** reference designator to JP2.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected C3 pin 2 to GND.
+Connected C3 pin 1 to Net-(C3-Pad1).
+Add net Net-(C3-Pad1).
+Updated C3 properties.
+Updated C3 symbol association from  to /81918046-8bf6-4874-9f10-3daf4cb65e1a.
+Changed C3 value from C_0603_1608Metric to 2.2n.
+Changed REF** reference designator to C3.
+Connected JP7 pin 2 to /AD0.
+Added P2 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P1 pin 1 to VCC.
+Removed P1 'exclude from BOM' fabrication attribute.
+Updated P1 properties.
+Updated P1 symbol association from  to /165cc7a4-261f-4463-973e-79abe078f04e.
+Changed P1 value from TestPoint_Pad_1.0x1.0mm to VCC.
+Changed REF** reference designator to P1.
+Added P1 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Changed REF** reference designator to P2.
+Connected JP7 pin 1 to /CH4.
+Add net /CH4.
+Removed JP7 'exclude from BOM' fabrication attribute.
+Connected JP2 pin 1 to /INT.
+Updated JP7 symbol association from  to /2f3853da-2b6d-49d4-87a1-5299bcf12baa.
+Changed JP7 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Changed REF** reference designator to JP7.
+Added JP7 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Updated P3 symbol association from  to /6a51b769-8a4b-40c8-b3e8-3a6c19d8b51b.
+Updated P4 properties.
+Updated P4 symbol association from  to /487cbfe9-ce27-4505-b42e-519d015c99c9.
+Changed REF** reference designator to P4.
+Added P4 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P3 pin 1 to /SCL.
+Add net /SCL.
+Removed P3 'exclude from BOM' fabrication attribute.
+Updated P3 properties.
+Updated JP7 properties.
+Changed P3 value from TestPoint_Pad_1.0x1.0mm to SCL.
+Changed REF** reference designator to P3.
+Added P3 (footprint 'TestPoint:TestPoint_Pad_1.0x1.0mm').
+Connected P2 pin 1 to GND.
+Removed P2 'exclude from BOM' fabrication attribute.
+Updated P2 properties.
+Updated P2 symbol association from  to /e4227600-00a7-44b1-9888-3423f060584d.
+Changed P2 value from TestPoint_Pad_1.0x1.0mm to GND.
+Added JP4 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Added JP5 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Connected JP4 pin 2 to /AD0.
+Connected JP6 pin 2 to /AD0.
+Add net /CH1.
+Removed JP4 'exclude from BOM' fabrication attribute.
+Updated JP4 properties.
+Updated JP4 symbol association from  to /7e2e1a98-643f-403a-98d3-5f30613c1fba.
+Changed JP4 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Changed REF** reference designator to JP4.
+Connected JP4 pin 1 to /CH1.
+Connected JP3 pin 2 to GND.
+Connected JP3 pin 1 to /INT.
+Removed JP3 'exclude from BOM' fabrication attribute.
+Updated JP3 properties.
+Updated JP3 symbol association from  to /0e6c222d-0215-4eab-9683-21feee275a74.
+Changed JP3 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Changed REF** reference designator to JP3.
+Added JP3 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Connected JP2 pin 2 to +3V3.
+Changed JP5 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Connected JP6 pin 1 to /CH3.
+Add net /CH3.
+Removed JP6 'exclude from BOM' fabrication attribute.
+Updated JP6 properties.
+Updated JP6 symbol association from  to /2507db1d-520e-4ed4-bc4e-c485008db55e.
+Changed JP6 value from SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm to Jumper.
+Changed REF** reference designator to JP6.
+Added JP6 (footprint 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Connected JP5 pin 2 to /AD0.
+Connected JP5 pin 1 to /CH2.
+Add net /CH2.
+Removed JP5 'exclude from BOM' fabrication attribute.
+Updated JP5 properties.
+Updated JP5 symbol association from  to /57d76ae3-f66a-40de-95e4-74f672464bae.
+Changed REF** reference designator to JP5.
+Warning: No net found for symbol U1 pin 3.
+Warning: No net found for symbol U1 pin 21.
+Warning: No net found for symbol U1 pin 22.
+Warning: No net found for symbol U1 pin 2.
+Warning: No net found for symbol U1 pin 19.
+Warning: No net found for symbol U1 pin 4.
+Warning: No net found for symbol U1 pin 17.
+Warning: No net found for symbol U1 pin 16.
+Warning: No net found for symbol U1 pin 15.
+Warning: No net found for symbol U1 pin 14.
+Warning: No net found for symbol U1 pin 5.
+
+
+Info: Total warnings: 0, errors: 0.
